@@ -7,6 +7,7 @@ Note: The second largest element should not be equal to the largest element.
 
 arr = [2,5,33,65,96,90,88,96,90]
 # arr = [ 5 ]
+arr = [10, 10 , 10]
 
 def second_largest(arr):
     if len(arr) < 2:
